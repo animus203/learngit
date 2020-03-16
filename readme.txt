@@ -1,2 +1,2 @@
-First creation of github
-Line 1
+Git is a distributed version control system.
+Git is free software
